@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lethiwe
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JavaScript through Freecodecamp.
 - 💞️ I would love to collaborate with others on projects
 - 📫 How to reach me: lethiwesiwezulu@gmail.com
 
